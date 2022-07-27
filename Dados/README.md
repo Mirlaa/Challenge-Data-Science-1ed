@@ -37,7 +37,7 @@ Histório de emprétimos de cada cliente
 | `cb_person_default_on_file` | Indica se a pessoa já foi inadimplente: sim (`Y`,`YES`) e não (`N`,`NO`) |
 | `cb_person_cred_hist_length` | Tempo - em anos - desde a primeira solicitação de crédito ou aquisição de um cartão de crédito |
 
-### IDs 
+### id
 
 Tabela que relaciona os IDs de cada informação da pessoa solicitante
 
