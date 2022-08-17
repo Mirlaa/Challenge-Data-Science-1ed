@@ -25,7 +25,7 @@ A tabela de dados unidos foi exportada do MySQL como ***csv*** e será utilizada
 ### Maria Gabriela
 
 <div align="left">
-<img src="https://i.imgur.com/z7wOCI9.png" width="300px" />
+<img src="https://i.imgur.com/rtR5ClI.jpg" width="300px" />
 </div>
 
 Maria é formada em Sistemas para Internet, apaixonada por tecnologia, dados e gatos. Atuou na área de infra e desenvolvimento. É especialista em SQL, com conhecimento nos bancos de dados mais utilizados atualmente e um pézinho em BI, com o qual tem se desenvolvido tecnicamente.
