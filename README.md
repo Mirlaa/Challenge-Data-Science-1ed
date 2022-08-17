@@ -8,11 +8,6 @@ Somos uma equipe de dados que foi contratada para fazer parte do banco digital i
 
 Por conta disso, foi solicitada uma solução para diminuir as perdas financeiras geradas por pessoas mutuárias que não quitam suas dívidas. Nos foi informado também que teríamos o prazo de **um mês** para encontrar essa solução e apresentá-la à diretoria financeira. Sendo assim, solicitamos um conjunto de dados contendo as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa mutuária é inadimplente ou não.
 
-Após a reunião, nossa equipe concordou em dividir os trabalhos da seguinte maneira:
-* Semana 1: trabalhar com os dados em SQL utilizando o MySQL;
-* Semana 2: construir um modelo de Machine Learning (ML) que classifica os(as) clientes em possíveis inadimplentes ou não; e
-* Semanas 3 e 4: desenvolver o portfólio em Power BI, mostrando tudo que encontramos nas semanas anteriores para podermos mostrar os resultados para a diretoria.
-
 ## Semana 1
 
 A semana 1 é dedicada à análise e estruturação dos dados oferecidos pelo banco com MySQL. Primeiro, foi notado que os dados estavam diferentes dos usuais, pois sua fonte era um ***dump***, o que nos exigiu uma atenção especial na manipulação deles. Assim, buscamos ler todo o registro para entender nossos dados. Notamos que os valores estavam divididos por tabelas características, com valores de ID referenciando os dados de cada cliente.
