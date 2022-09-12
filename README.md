@@ -20,6 +20,14 @@ Depois buscamos unir as tabelas pelos valores de IDs que eram correspondentes en
 
 A tabela de dados unidos foi exportada do MySQL como ***csv*** e será utilizada nas próximas semanas.
 
+## Semana 2
+
+Na semana 2 buscamos construir um modelo de ML que pudesse predizer de acordo com os dados bancários de cada cliente, se essa pessoa pode ou não se tornar inadimplente. Dessa vez, utilizamos o **Python** no ambiente do **Google Colab** para desenvolver nosso modelo.
+
+Primeiramente, coletamos os dados da semana 1 e iniciamos uma análise focada no tratamento de dados para serem inseridos em um modelo de ML,. Desse modo, removemos valores nulos e outliers presentes nos dados, bem como aplicamos o balanceamento, normalização e enconding para tratar o conjunto de dados.
+
+Assim, construimos três modelos de aprendizado de máquina pensando na explicabilidade do resultado final, comparamos o desempenho deles para o projeto e escolhemos o que teve melhor performance. Com isso, buscamos melhorar ainda mais o resultado final do modelo com uma otimização de hiperparâmetros e, assim que obtivemos um bom produto final, salvamos o modelo fazendo sua exportação.
+
 ## Equipe de Dados
 
 ### Maria Gabriela
