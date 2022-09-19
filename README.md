@@ -28,6 +28,16 @@ Primeiramente, coletamos os dados da semana 1 e iniciamos uma análise focada no
 
 Assim, construimos três modelos de aprendizado de máquina pensando na explicabilidade do resultado final, comparamos o desempenho deles para o projeto e escolhemos o que teve melhor performance. Com isso, buscamos melhorar ainda mais o resultado final do modelo com uma otimização de hiperparâmetros e, assim que obtivemos um bom produto final, salvamos o modelo fazendo sua exportação.
 
+## Semana 3 e 4
+
+Na semana 3 e 4 decidimos construir uma forma de apresentar todas as análises que fizemos nos nossos dados: análises estatísticas e extração de características para fazermos o modelo de aprendizado de máquina. Pensamos assim, em utilizar o **Power BI** como ferramenta para estruturar o que encontramos e permitir que nele pudéssemos realizar ainda mais análises posteriormente.
+
+Desse modo, para disponibilizarmos o modelo de ML, criamos uma **API** que recebe os dados de cada cliente como entrada e tem como retorno o resultado de uma possível inadimplencia ou não desse cliente. Conectamos essa API ao Power BI e assim conseguimos inserir os dados em forma de parâmetros do **Power Query** e temos o retono da API no próprio dashboard, podendo assim fazer consultas em tempo real.
+
+Além disso, também foi feito uma análise gráfica para comparar o resultado do modelo de ML com o conjunto de dados construido na semana 1, entendendo o porquê do resultado fornecido pelo modelo.
+
+Assim, conseguimos solucionar o problema do banco Alura Cash, através da ajuda na identificação de um possível pessoa inadimplente antes da liberação de créditos. Ademais, também tivemos sucesso ao apresentar nossa proposta à diretoria financeira através do nosso dashboard em Power BI! xD
+
 ## Equipe de Dados
 
 ### Maria Gabriela
